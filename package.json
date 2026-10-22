@@ -1,0 +1,13 @@
+{
+  "name": "pe-test-app",
+  "version": "1.0.0",
+  "description": "CA PE Standards test app — teacher and admin logins",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "PORT=3847 node server/index.js",
+    "seed": "node server/seed.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

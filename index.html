@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5, viewport-fit=cover" />
+  <meta name="theme-color" content="#1a5f4a" />
+  <title>CA PE Test App</title>
+  <link rel="stylesheet" href="/styles.css" />
+</head>
+<body>
+  <!-- LOGIN -->
+  <div id="login-screen" class="login-wrap">
+    <div class="login-card">
+      <h1>CA PE Standards</h1>
+      <p class="hint">Test app — teacher &amp; admin logins</p>
+      <form id="login-form" style="margin-top:1.25rem">
+        <div class="form-group">
+          <label for="email">Email</label>
+          <input id="email" type="email" autocomplete="username" required placeholder="you@school.edu" />
+        </div>
+        <div class="form-group">
+          <label for="password">Password</label>
+          <input id="password" type="password" autocomplete="current-password" required />
+        </div>
+        <button type="submit" class="btn btn-primary" style="width:100%">Log in</button>
+        <p id="login-error" class="error hidden"></p>
+      </form>
+      <div class="demo-box">
+        <strong>Demo accounts</strong><br/>
+        Admin: <code>admin@school.edu</code> / <code>admin123</code><br/>
+        Teacher: <code>teacher@school.edu</code> / <code>teacher123</code><br/>
+        Teacher 2: <code>teacher2@school.edu</code> / <code>teacher123</code>
+      </div>
+    </div>
+  </div>
+
+  <!-- APP SHELL -->
+  <div id="app-screen" class="hidden">
+    <header class="header">
+      <div class="header-inner">
+        <div>
+          <h1>CA PE Test App</h1>
+          <p class="hint" style="color:rgba(255,255,255,0.85)" id="user-label"></p>
+        </div>
+        <button type="button" class="btn" id="logout-btn" style="background:rgba(255,255,255,0.15);color:#fff;border-color:transparent">Log out</button>
+      </div>
+    </header>
+
+    <main class="container">
+      <div class="tabs" id="main-tabs"></div>
+
+      <!-- TEACHER: Lessons -->
+      <section id="view-lessons" class="view hidden">
+        <div class="card">
+          <h2>Lessons</h2>
+          <p class="hint">Mark complete after you teach. Only your account stores your completions.</p>
+          <div class="row">
+            <div>
+              <label class="hint">Unit</label>
+              <select id="filter-unit"></select>
+            </div>
+            <div>
+              <label class="hint">Equipment</label>
+              <select id="filter-equip">
+                <option value="all">All</option>
+                <option value="None">No equipment</option>
+                <option value="Minimal">Minimal</option>
+              </select>
+            </div>
+          </div>
+          <div id="lesson-list" style="margin-top:0.75rem"></div>
+        </div>
+      </section>
+
+      <!-- TEACHER: My progress -->
+      <section id="view-progress" class="view hidden">
+        <div class="card">
+          <h2>My progress</h2>
+          <div class="stat-row" id="my-stats"></div>
+          <div id="my-recent"></div>
+        </div>
+      </section>
+
+      <!-- TEACHER: PFT -->
+      <section id="view-pft" class="view hidden">
+        <div class="card">
+          <h2>Official PFT results (grades 5 · 7 · 9)</h2>
+          <p class="hint">Saved to your teacher account. Admins can see district-wide scores.</p>
+          <div class="row">
+            <div>
+              <label class="hint">Grade</label>
+              <select id="pft-grade"><option>5</option><option>7</option><option>9</option></select>
+            </div>
+            <div>
+              <label class="hint">School year</label>
+              <input id="pft-year" value="2025-26" />
+            </div>
+            <div>
+              <label class="hint">Student name or ID</label>
+              <input id="pft-student" placeholder="Required" />
+            </div>
+          </div>
+          <div class="row">
+            <div>
+              <label class="hint">Aerobic type</label>
+              <select id="pft-aero-type"><option>PACER laps</option><option>Mile time</option><option>Walk time</option></select>
+            </div>
+            <div>
+              <label class="hint">Aerobic score</label>
+              <input id="pft-aero" placeholder="laps or mm:ss" />
+            </div>
+            <div>
+              <label class="hint">Curl-ups</label>
+              <input id="pft-curl" type="number" min="0" max="75" />
+            </div>
+          </div>
+          <div class="row">
+            <div>
+              <label class="hint">Trunk lift (in)</label>
+              <input id="pft-trunk" type="number" min="0" max="12" step="0.5" />
+            </div>
+            <div>
+              <label class="hint">Upper body type</label>
+              <select id="pft-upper-type"><option>Push-Ups</option><option>Modified Pull-Up</option><option>Flexed-Arm Hang (sec)</option></select>
+            </div>
+            <div>
+              <label class="hint">Upper body score</label>
+              <input id="pft-upper" />
+            </div>
+          </div>
+          <div class="row">
+            <div>
+              <label class="hint">Flexibility type</label>
+              <select id="pft-flex-type"><option>Sit &amp; Reach (in)</option><option>Shoulder Stretch</option></select>
+            </div>
+            <div>
+              <label class="hint">Flexibility score</label>
+              <input id="pft-flex" placeholder="inches or Y/Y" />
+            </div>
+          </div>
+          <button type="button" class="btn btn-primary" id="pft-save">Save official result</button>
+          <div id="pft-list" style="margin-top:1rem"></div>
+        </div>
+      </section>
+
+      <!-- ADMIN -->
+      <section id="view-admin" class="view hidden">
+        <div class="card">
+          <h2>District overview</h2>
+          <p class="hint">All teachers in your district. Teachers cannot see each other’s data.</p>
+          <div class="stat-row" id="district-stats"></div>
+          <div style="overflow-x:auto;margin-top:0.75rem">
+            <table class="table" id="teachers-table">
+              <thead>
+                <tr>
+                  <th>Teacher</th>
+                  <th>School</th>
+                  <th>Lessons</th>
+                  <th>Minutes</th>
+                  <th>PFT students</th>
+                </tr>
+              </thead>
+              <tbody></tbody>
+            </table>
+          </div>
+          <div style="margin-top:1rem;display:flex;gap:0.5rem;flex-wrap:wrap">
+            <a class="btn btn-primary" href="/api/admin/export-completions">Export completions CSV</a>
+            <a class="btn" href="/api/admin/export-pft">Export PFT CSV</a>
+          </div>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <div id="modal-root" class="hidden"></div>
+  <script src="/app.js"></script>
+</body>
+</html>

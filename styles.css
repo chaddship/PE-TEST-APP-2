@@ -1,0 +1,133 @@
+:root {
+  --primary: #1a5f4a;
+  --primary-light: #e8f5f0;
+  --accent: #e07a3d;
+  --text: #1a1a1a;
+  --muted: #5c5c5c;
+  --border: #e0e0e0;
+  --bg: #f7f9f8;
+  --danger: #c0392b;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.5;
+  min-height: 100vh;
+}
+input, textarea, select, button { font-size: 16px !important; }
+input, select, textarea {
+  padding: 0.65rem 0.75rem;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  min-height: 44px;
+  width: 100%;
+  background: #fff;
+}
+button, .btn {
+  padding: 0.65rem 1rem;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: #fff;
+  cursor: pointer;
+  font-weight: 600;
+}
+.btn-primary { background: var(--primary); color: #fff; border-color: var(--primary); }
+.btn-danger { background: var(--danger); color: #fff; border-color: var(--danger); }
+.header {
+  background: var(--primary);
+  color: #fff;
+  padding: 1rem;
+}
+.header-inner { max-width: 960px; margin: 0 auto; display: flex; justify-content: space-between; align-items: center; gap: 1rem; flex-wrap: wrap; }
+.header h1 { font-size: 1.25rem; }
+.container { max-width: 960px; margin: 0 auto; padding: 1rem; padding-bottom: 3rem; }
+.card {
+  background: #fff;
+  border-radius: 12px;
+  padding: 1.25rem;
+  margin-bottom: 1rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+}
+.card h2 { font-size: 1.1rem; color: var(--primary); margin-bottom: 0.75rem; }
+.hint { font-size: 0.9rem; color: var(--muted); }
+.tabs { display: flex; gap: 0.4rem; flex-wrap: wrap; margin-bottom: 1rem; }
+.tab {
+  padding: 0.5rem 0.9rem;
+  border-radius: 20px;
+  border: 1px solid var(--border);
+  background: #fff;
+  cursor: pointer;
+  font-size: 0.9rem;
+}
+.tab.active { background: var(--primary); color: #fff; border-color: var(--primary); }
+.hidden { display: none !important; }
+.login-wrap {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+  background: linear-gradient(160deg, #1a5f4a, #2d8a6e 50%, #f7f9f8 50%);
+}
+.login-card {
+  background: #fff;
+  border-radius: 16px;
+  padding: 2rem;
+  width: 100%;
+  max-width: 400px;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.12);
+}
+.login-card h1 { color: var(--primary); margin-bottom: 0.25rem; font-size: 1.5rem; }
+.form-group { margin-bottom: 1rem; }
+.form-group label { display: block; font-weight: 600; font-size: 0.9rem; margin-bottom: 0.35rem; }
+.error { color: var(--danger); font-size: 0.9rem; margin-top: 0.5rem; }
+.demo-box {
+  background: var(--primary-light);
+  border-radius: 8px;
+  padding: 0.75rem;
+  margin-top: 1rem;
+  font-size: 0.85rem;
+}
+.stat-row { display: flex; flex-wrap: wrap; gap: 0.75rem; margin: 0.75rem 0; }
+.stat {
+  background: var(--primary-light);
+  border-radius: 10px;
+  padding: 0.75rem 1rem;
+  min-width: 100px;
+  text-align: center;
+}
+.stat .num { font-size: 1.5rem; font-weight: 700; color: var(--primary); }
+.stat .lbl { font-size: 0.75rem; color: var(--muted); }
+.lesson-item {
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 0.85rem 1rem;
+  margin-bottom: 0.5rem;
+  cursor: pointer;
+}
+.lesson-item:hover { border-color: var(--primary); background: #fafcfa; }
+.badge {
+  display: inline-block;
+  font-size: 0.75rem;
+  background: #eee;
+  padding: 0.15rem 0.45rem;
+  border-radius: 4px;
+  margin-right: 0.25rem;
+}
+.table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
+.table th, .table td { border: 1px solid var(--border); padding: 0.45rem 0.6rem; text-align: left; }
+.table th { background: var(--primary-light); }
+.row { display: flex; flex-wrap: wrap; gap: 0.75rem; margin-bottom: 0.75rem; }
+.row > * { flex: 1 1 140px; }
+.modal-bg {
+  position: fixed; inset: 0; background: rgba(0,0,0,0.45);
+  display: flex; align-items: flex-start; justify-content: center;
+  padding: 1rem; overflow-y: auto; z-index: 50;
+}
+.modal {
+  background: #fff; border-radius: 12px; padding: 1.25rem;
+  width: 100%; max-width: 560px; margin: 1rem 0;
+}
+.modal h3 { color: var(--primary); margin-bottom: 0.5rem; }

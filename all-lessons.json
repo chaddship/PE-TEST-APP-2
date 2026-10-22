@@ -1,0 +1,1913 @@
+[
+  {
+    "id": "u1-l01",
+    "unitId": "unit1-locomotor",
+    "sequence": 1,
+    "title": "Personal Space & Bubble Control",
+    "gradeBands": [
+      "K-2",
+      "3-4"
+    ],
+    "timeOptions": [
+      15,
+      25,
+      40
+    ],
+    "equipment": "None",
+    "standards": [
+      {
+        "code": "PE-1.1",
+        "label": "Space awareness"
+      },
+      {
+        "code": "PE-2.1",
+        "label": "Movement concepts"
+      },
+      {
+        "code": "Std5",
+        "label": "Self-control & responsibility"
+      }
+    ],
+    "iCan": "I can move in my own personal space without touching others.",
+    "setup": "Open space. Students stand scattered with enough room to extend arms without touching.",
+    "warmUp": "Freeze & Grow: Move on signal, freeze in a balanced shape when teacher says freeze.",
+    "mainActivity": "Personal-space bubbles. Students walk, then jog in place while keeping imaginary bubbles from popping (no touching). Add levels: high, medium, low shapes on signal.",
+    "challenge": "Move to teacher clap patterns or simple music while protecting the bubble. Freeze in a balanced shape on final signal.",
+    "coolDown": "Sit in personal space. Share one way they kept their bubble safe today.",
+    "modifications": {
+      "easier": "Stay seated or kneeling; use arm circles only.",
+      "harder": "Add directional changes and speed changes while protecting bubble.",
+      "limitedMobility": "Upper-body shapes and seated marches only.",
+      "largeClass": "Assign taped spots or visual markers if available; stagger start times."
+    },
+    "exitTicket": "Teacher visual scan: Can students stop and hold a balanced shape in their own space without touching neighbors?",
+    "teacherTip": "Use the phrase 'protect your bubble' early \u2014 it becomes shared class language for the entire unit and reduces collisions dramatically.",
+    "cues": [
+      "Arms out like a big bubble",
+      "Soft knees, ready to stop",
+      "Eyes up, look for open space"
+    ],
+    "commonErrors": [
+      "Students drift into others' space \u2192 re-teach 'bubble' with arms extended",
+      "Running instead of controlled movement \u2192 start with walking only"
+    ]
+  },
+  {
+    "id": "u1-l02",
+    "unitId": "unit1-locomotor",
+    "sequence": 2,
+    "title": "Locomotor Skills \u2013 Walk, Jog, Run, Hop",
+    "gradeBands": [
+      "K-2"
+    ],
+    "timeOptions": [
+      15,
+      25,
+      40
+    ],
+    "equipment": "None",
+    "standards": [
+      {
+        "code": "PE-1.LM",
+        "label": "Locomotor movement"
+      },
+      {
+        "code": "PE-2.1",
+        "label": "Pathways & space"
+      }
+    ],
+    "iCan": "I can travel using walk, jog, run, and hop while staying in control.",
+    "setup": "Clear boundaries (cones, lines, or visual cues). Students start on a perimeter or scattered.",
+    "warmUp": "Follow-the-leader with different locomotor skills called by teacher.",
+    "mainActivity": "Continuous travel. Teacher calls skill + simple pathway (straight, curved). Practice each skill 30\u201345 seconds before switching.",
+    "challenge": "Combine two skills on signal (example: hop then jog). Students create a short two-skill sequence.",
+    "coolDown": "Slow walk around the boundary + deep breaths. Name the four skills used today.",
+    "modifications": {
+      "easier": "Limit to two skills (walk + hop).",
+      "harder": "Add levels or force students to change pathway every 10 seconds.",
+      "limitedMobility": "Seated marches, arm swings, and seated hops (lift hips if able).",
+      "largeClass": "Split into two groups; one group moves while other holds shapes, then switch."
+    },
+    "exitTicket": "On command, students demonstrate one named skill with recognizable form.",
+    "teacherTip": "Demonstrate the difference between jog (controlled) and run (faster) explicitly \u2014 many students treat them as the same.",
+    "cues": [
+      "Hop: take off and land on the same foot",
+      "Soft landings \u2014 bend ankles, knees, hips",
+      "Head up, look where you are going"
+    ],
+    "commonErrors": [
+      "Hopping on alternating feet (that's skipping) \u2192 freeze and re-cue same-foot hop",
+      "Looking at feet \u2192 remind 'eyes up'"
+    ]
+  },
+  {
+    "id": "u1-l03",
+    "unitId": "unit1-locomotor",
+    "sequence": 3,
+    "title": "Pathways & Direction Changes",
+    "gradeBands": [
+      "K-2",
+      "3-4"
+    ],
+    "timeOptions": [
+      15,
+      25,
+      40
+    ],
+    "equipment": "None",
+    "standards": [
+      {
+        "code": "PE-1.1",
+        "label": "Pathways"
+      },
+      {
+        "code": "PE-1.4",
+        "label": "Direction changes"
+      }
+    ],
+    "iCan": "I can travel in straight, curved, and zigzag pathways and change direction on signal.",
+    "setup": "Open space with clear boundaries. Optional: place 4\u20136 cones as pathway markers.",
+    "warmUp": "Shadow movements \u2014 teacher demonstrates pathway, students copy.",
+    "mainActivity": "Pathway Paint: students 'paint' pathways with their bodies. Teacher calls pathway type and direction changes (forward/back, left/right).",
+    "challenge": "Students design and travel a three-part pathway sequence (example: straight \u2192 curved \u2192 zigzag).",
+    "coolDown": "Trace a pathway on the floor with a finger while seated and breathing slowly.",
+    "modifications": {
+      "easier": "Only straight and curved pathways.",
+      "harder": "Add speed changes and locomotor skill changes inside the pathway.",
+      "limitedMobility": "Wheelchair or seated users trace pathways with arms or by rolling.",
+      "largeClass": "Use half the space at a time or create two parallel activity zones."
+    },
+    "exitTicket": "Student demonstrates one pathway type on teacher request.",
+    "teacherTip": "Have students point the new direction with their whole body before moving \u2014 this single cue cuts collisions significantly.",
+    "cues": [
+      "Point your belly button the way you want to go",
+      "Curved = smooth arc, not sharp corners",
+      "Zigzag = sharp angle changes"
+    ],
+    "commonErrors": [
+      "Sharp corners on curved pathways \u2192 model smooth arcs",
+      "Stopping completely on direction change \u2192 practice fluid transitions"
+    ]
+  },
+  {
+    "id": "u1-l04",
+    "unitId": "unit1-locomotor",
+    "sequence": 4,
+    "title": "Levels & Body Shapes in Space",
+    "gradeBands": [
+      "K-2"
+    ],
+    "timeOptions": [
+      15,
+      25,
+      40
+    ],
+    "equipment": "None",
+    "standards": [
+      {
+        "code": "PE-1.1",
+        "label": "Levels in space"
+      },
+      {
+        "code": "Std5",
+        "label": "Effort & self-expression"
+      }
+    ],
+    "iCan": "I can move at high, medium, and low levels and make different body shapes.",
+    "setup": "Scattered formation with personal space already established.",
+    "warmUp": "Shape copy-cat: teacher makes a shape, students copy at same level.",
+    "mainActivity": "Travel while changing levels on signal. Freeze in high/medium/low shapes. Explore wide, narrow, twisted, and round shapes.",
+    "challenge": "Partner mirror shapes while staying in personal space (no touching).",
+    "coolDown": "Students choose their favorite shape of the day and share why.",
+    "modifications": {
+      "easier": "Only high and low levels.",
+      "harder": "Require travel between shape freezes using a specific locomotor skill.",
+      "limitedMobility": "Focus on upper-body shapes and seated level changes.",
+      "largeClass": "Do partner work in waves or use visual markers for pairs."
+    },
+    "exitTicket": "On signal, students freeze in a named level (high/medium/low).",
+    "teacherTip": "Celebrate creative shapes \u2014 this builds buy-in for later dance and gymnastics units.",
+    "cues": [
+      "High = as tall as you can",
+      "Low = as close to the floor as you can safely",
+      "Hold your shape like a statue"
+    ],
+    "commonErrors": [
+      "Collapsing instead of controlled low level \u2192 cue 'strong low shape'",
+      "Moving feet during freeze \u2192 re-teach stillness"
+    ]
+  },
+  {
+    "id": "u1-l05",
+    "unitId": "unit1-locomotor",
+    "sequence": 5,
+    "title": "Gallop, Slide, Skip Introduction",
+    "gradeBands": [
+      "K-2",
+      "3-4"
+    ],
+    "timeOptions": [
+      15,
+      25,
+      40
+    ],
+    "equipment": "None",
+    "standards": [
+      {
+        "code": "PE-1.LM",
+        "label": "Uneven-beat locomotor skills"
+      },
+      {
+        "code": "PE-2.5",
+        "label": "Even vs uneven beats"
+      }
+    ],
+    "iCan": "I can gallop, slide, and skip with control.",
+    "setup": "Open space, clear direction of travel (one-way traffic recommended).",
+    "warmUp": "Quick review of walk, jog, hop.",
+    "mainActivity": "Isolated practice: gallop (same foot leads) \u2192 slide (side orientation) \u2192 skip (step-hop). Use visual cues and short practice bouts.",
+    "challenge": "Travel a pathway using only uneven-beat skills (gallop, slide, skip).",
+    "coolDown": "Slow-motion skip across the space + reflection on which skill felt easiest.",
+    "modifications": {
+      "easier": "Practice only gallop and slide first.",
+      "harder": "Combine with pathway and level changes.",
+      "limitedMobility": "Seated or supported versions focusing on rhythm and arm patterns.",
+      "largeClass": "Travel in lanes or waves to avoid collisions."
+    },
+    "exitTicket": "Student performs one uneven-beat skill with recognizable form.",
+    "teacherTip": "Many students reverse the lead foot on gallop and slide. Give a clear 'same foot stays in front' cue and check early.",
+    "cues": [
+      "Gallop: same foot stays in front",
+      "Slide: belly button faces the side, step-close",
+      "Skip: step then hop on the same foot"
+    ],
+    "commonErrors": [
+      "Alternating lead foot on gallop \u2192 freeze and re-set lead foot",
+      "Skip turning into a run \u2192 slow it down and exaggerate the hop"
+    ]
+  },
+  {
+    "id": "u1-l06",
+    "unitId": "unit1-locomotor",
+    "sequence": 6,
+    "title": "Combining Locomotor Skills + Rhythm",
+    "gradeBands": [
+      "3-4",
+      "5-6"
+    ],
+    "timeOptions": [
+      15,
+      25,
+      40
+    ],
+    "equipment": "None (music optional)",
+    "standards": [
+      {
+        "code": "PE-1.17",
+        "label": "Smooth transitions"
+      },
+      {
+        "code": "PE-2.5",
+        "label": "Even and uneven beats"
+      }
+    ],
+    "iCan": "I can combine locomotor skills and change with a beat or signal.",
+    "setup": "Open space. Optional simple music with clear beat.",
+    "warmUp": "Skill review circle \u2014 teacher calls skills rapidly.",
+    "mainActivity": "Continuous travel. Teacher or music cues skill changes. Practice smooth transitions between even-beat and uneven-beat skills.",
+    "challenge": "Small groups create a 4-skill sequence and perform it for another group.",
+    "coolDown": "Groups share one sequence and what made transitions smooth.",
+    "modifications": {
+      "easier": "Limit to three skills and longer practice time per skill.",
+      "harder": "Require specific pathway or level changes inside the sequence.",
+      "limitedMobility": "Seated rhythm patterns + upper-body locomotor approximations.",
+      "largeClass": "Perform sequences in waves or half-class at a time."
+    },
+    "exitTicket": "Group or individual demonstrates a smooth two-skill transition.",
+    "teacherTip": "Count out loud during transitions at first ('skip 1-2-3-4, now gallop') so students feel the change point.",
+    "cues": [
+      "Stay light on your feet",
+      "Listen for the change signal",
+      "Finish one skill cleanly before starting the next"
+    ],
+    "commonErrors": [
+      "Abrupt stops between skills \u2192 practice flowing transitions",
+      "Losing the beat \u2192 return to teacher-counted cues"
+    ]
+  },
+  {
+    "id": "u1-l07",
+    "unitId": "unit1-locomotor",
+    "sequence": 7,
+    "title": "Safe Travel in General Space \u2013 Cooperative Tag",
+    "gradeBands": [
+      "K-2",
+      "3-4",
+      "5-6"
+    ],
+    "timeOptions": [
+      15,
+      25,
+      40
+    ],
+    "equipment": "None (soft tags optional)",
+    "standards": [
+      {
+        "code": "PE-1.1",
+        "label": "General space"
+      },
+      {
+        "code": "Std5",
+        "label": "Cooperation & safety"
+      }
+    ],
+    "iCan": "I can move safely in general space while playing and respecting others' space.",
+    "setup": "Clear boundaries. Review 'bubble' language from Lesson 1.",
+    "warmUp": "Bubble review + controlled jogging in general space.",
+    "mainActivity": "Cooperative tag variations (no elimination). Examples: everyone is 'it' for short bursts, freeze tag with helpers who unfreeze, or locomotor-restricted tag.",
+    "challenge": "Add a locomotor restriction (only hop or only skip while tagging/fleeing).",
+    "coolDown": "Circle discussion: What made the space feel safe today? What still needs work?",
+    "modifications": {
+      "easier": "Walking tag only.",
+      "harder": "Multiple simultaneous taggers + skill restrictions.",
+      "limitedMobility": "Include seated or assisted roles (tagger using a soft pool noodle, or designated safe zones).",
+      "largeClass": "Play in two smaller zones or use 'zone tag'."
+    },
+    "exitTicket": "Teacher observation: Are students stopping under control and respecting space?",
+    "teacherTip": "Ban full-speed running the first two sessions. Build the habit of control first \u2014 speed can come later.",
+    "cues": [
+      "Controlled speed \u2014 you must be able to stop in two steps",
+      "Eyes up, scan for open space",
+      "Gentle tags only"
+    ],
+    "commonErrors": [
+      "High-speed collisions \u2192 immediately reset to walking pace",
+      "Students arguing about tags \u2192 use clear 'I got tagged' honor system"
+    ]
+  },
+  {
+    "id": "u1-l08",
+    "unitId": "unit1-locomotor",
+    "sequence": 8,
+    "title": "Jumping, Landing & Force Absorption",
+    "gradeBands": [
+      "K-2",
+      "3-4"
+    ],
+    "timeOptions": [
+      15,
+      25,
+      40
+    ],
+    "equipment": "None (lines or spots optional)",
+    "standards": [
+      {
+        "code": "PE-1.5",
+        "label": "Jump for distance & landing"
+      },
+      {
+        "code": "Std3",
+        "label": "Fitness awareness"
+      }
+    ],
+    "iCan": "I can jump and land softly by bending my hips, knees, and ankles.",
+    "setup": "Open space. Optional tape lines or poly spots as takeoff/landing markers.",
+    "warmUp": "Easy hops in place focusing on quiet landings.",
+    "mainActivity": "Jump for distance and height with emphasis on soft landings. Practice on teacher signals. Progress from two-foot to one-foot takeoffs if ready.",
+    "challenge": "Create short jump sequences (example: two-foot jump \u2192 stick landing \u2192 another jump).",
+    "coolDown": "Gentle leg stretches + self-check: 'Did my landings stay soft today?'",
+    "modifications": {
+      "easier": "Small jumps in place only.",
+      "harder": "Add 180\u00b0 turns or combine with locomotor approach.",
+      "limitedMobility": "Seated or supported 'jumps' focusing on arm drive and controlled return.",
+      "largeClass": "Jump in waves or use designated lanes."
+    },
+    "exitTicket": "Student performs one jump with visible bend in ankles, knees, and hips on landing.",
+    "teacherTip": "Cue 'quiet feet' \u2014 students immediately understand the goal of force absorption.",
+    "cues": [
+      "Bend your ankles, knees, and hips like a shock absorber",
+      "Land quietly",
+      "Eyes forward, not down at your feet"
+    ],
+    "commonErrors": [
+      "Stiff-legged landings \u2192 exaggerate the bend in demonstration",
+      "Looking down \u2192 causes loss of balance"
+    ]
+  },
+  {
+    "id": "u1-l09",
+    "unitId": "unit1-locomotor",
+    "sequence": 9,
+    "title": "Partner & Small-Group Space Challenges",
+    "gradeBands": [
+      "3-4",
+      "5-6"
+    ],
+    "timeOptions": [
+      15,
+      25,
+      40
+    ],
+    "equipment": "None",
+    "standards": [
+      {
+        "code": "PE-1.2",
+        "label": "Relationships in space"
+      },
+      {
+        "code": "Std5",
+        "label": "Cooperation & communication"
+      }
+    ],
+    "iCan": "I can move with a partner or small group while sharing space safely.",
+    "setup": "Students paired or in groups of 3\u20134. Personal space still respected.",
+    "warmUp": "Partner mirror \u2014 one leads slow movements, other mirrors.",
+    "mainActivity": "Partner pathways (lead-and-follow), shared shapes, and simple mirroring while traveling.",
+    "challenge": "Groups of 3\u20134 design a short movement story using levels and pathways, then perform it.",
+    "coolDown": "Group reflection: How did you communicate without talking much? What worked?",
+    "modifications": {
+      "easier": "Stay with partner mirror only.",
+      "harder": "Require specific locomotor skills or timed sequences.",
+      "limitedMobility": "Include all students in design and leadership roles; adapt movements as needed.",
+      "largeClass": "Assign groups in advance or use numbered teams."
+    },
+    "exitTicket": "Groups successfully perform a short shared sequence without collisions.",
+    "teacherTip": "Assign roles (leader, counter, space-checker) so every student has a job and engagement stays high.",
+    "cues": [
+      "Stay connected with your eyes",
+      "Match your partner's speed",
+      "Protect the group's bubble"
+    ],
+    "commonErrors": [
+      "One student dominates \u2192 rotate leadership every 30\u201345 seconds",
+      "Groups spreading too far \u2192 give a maximum area they may use"
+    ]
+  },
+  {
+    "id": "u1-l10",
+    "unitId": "unit1-locomotor",
+    "sequence": 10,
+    "title": "Unit Culmination \u2013 Locomotor Showcase + Goal Check",
+    "gradeBands": [
+      "K-2",
+      "3-4",
+      "5-6"
+    ],
+    "timeOptions": [
+      25,
+      40
+    ],
+    "equipment": "None",
+    "standards": [
+      {
+        "code": "Std1",
+        "label": "Motor skills review"
+      },
+      {
+        "code": "Std3",
+        "label": "Self-assessment"
+      },
+      {
+        "code": "Std5",
+        "label": "Reflection & goal setting"
+      }
+    ],
+    "iCan": "I can show the locomotor skills and space awareness I have learned and reflect on my progress.",
+    "setup": "Stations or open space divided into skill zones.",
+    "warmUp": "Free choice of favorite skills from the unit.",
+    "mainActivity": "Circuit or stations reviewing key skills. Students rotate and self-assess using simple thumbs-up / side / down.",
+    "challenge": "Each student creates a short personal routine (3\u20135 skills) and performs it.",
+    "coolDown": "Goal reflection: 'What skill am I most proud of? What do I want to improve next?' Teachers capture responses for class goal setting.",
+    "modifications": {
+      "easier": "Fewer stations; more guided practice.",
+      "harder": "Require students to teach one skill to a partner.",
+      "limitedMobility": "All students participate in design and reflection; movements adapted.",
+      "largeClass": "Perform routines in small waves."
+    },
+    "exitTicket": "Student completes a simple self-assessment and names one growth area.",
+    "teacherTip": "This lesson feeds directly into the AI goal-setting feature. Collect 3\u20135 common student comments to turn into a class goal.",
+    "cues": [
+      "Show what you know",
+      "Be honest on your self-check",
+      "Celebrate progress, not perfection"
+    ],
+    "commonErrors": [
+      "Students rushing routines \u2192 give a clear time limit and practice once first",
+      "Vague reflections \u2192 provide sentence stems"
+    ]
+  },
+  {
+    "id": "u2-l01",
+    "unitId": "unit2-manipulative",
+    "sequence": 1,
+    "title": "Underhand Toss & Catch to Self",
+    "gradeBands": [
+      "K-2"
+    ],
+    "timeOptions": [
+      15,
+      25,
+      40
+    ],
+    "equipment": "Minimal (yarn balls, beanbags, or rolled socks)",
+    "standards": [
+      {
+        "code": "PE-1.10",
+        "label": "Underhand throw pattern"
+      },
+      {
+        "code": "PE-1.13",
+        "label": "Toss and catch"
+      }
+    ],
+    "iCan": "I can toss an object underhand to myself and catch it before it bounces twice.",
+    "setup": "Students scattered in personal space with one soft object each.",
+    "warmUp": "Body part balance: balance object on different body parts while walking slowly.",
+    "mainActivity": "Self-toss and catch. Progress from low tosses to higher ones. Cue proper underhand pattern (step with opposite foot, swing arm back to front, release).",
+    "challenge": "Catch with one hand or alternate hands. Try for consecutive catches.",
+    "coolDown": "Gentle arm circles + share one tip that helped them catch more consistently.",
+    "modifications": {
+      "easier": "Larger, slower objects (scarves or balloons).",
+      "harder": "Smaller objects or require clap under the toss before catching.",
+      "limitedMobility": "Seated tossing; use lighter objects; partner can roll object if needed.",
+      "largeClass": "Use whatever soft objects are available; students without objects practice form with imaginary balls."
+    },
+    "exitTicket": "Student successfully completes 3 consecutive self-tosses and catches.",
+    "teacherTip": "Start with scarves or plastic bags if real balls are limited \u2014 success builds confidence fast.",
+    "cues": [
+      "Step with the opposite foot",
+      "Swing the arm like a pendulum",
+      "Watch the object into your hands"
+    ],
+    "commonErrors": [
+      "Throwing overhand \u2192 freeze and re-model underhand only",
+      "Looking away before the catch \u2192 cue 'eyes on the ball all the way'"
+    ]
+  },
+  {
+    "id": "u2-l02",
+    "unitId": "unit2-manipulative",
+    "sequence": 2,
+    "title": "Underhand Throw to a Target / Partner",
+    "gradeBands": [
+      "K-2",
+      "3-4"
+    ],
+    "timeOptions": [
+      15,
+      25,
+      40
+    ],
+    "equipment": "Minimal (beanbags, yarn balls, hoops or taped targets)",
+    "standards": [
+      {
+        "code": "PE-1.10",
+        "label": "Underhand throw"
+      },
+      {
+        "code": "Std2",
+        "label": "Accuracy & force"
+      }
+    ],
+    "iCan": "I can throw underhand to a target or partner with control.",
+    "setup": "Partners 5\u201310 feet apart or individual targets on walls/cones.",
+    "warmUp": "Review self-toss from previous lesson.",
+    "mainActivity": "Underhand throws to partner (catch and return) or to stationary targets. Focus on accuracy over power.",
+    "challenge": "Increase distance or reduce target size. Track consecutive successful throws.",
+    "coolDown": "Partner feedback: one thing your partner did well.",
+    "modifications": {
+      "easier": "Shorter distance, larger targets, or rolling instead of throwing.",
+      "harder": "Moving targets or non-dominant hand.",
+      "limitedMobility": "Seated throwing; adjust distance; use ramps if appropriate.",
+      "largeClass": "Create multiple short throwing lanes or stations."
+    },
+    "exitTicket": "Student hits a target or completes a successful partner exchange.",
+    "teacherTip": "Emphasize 'soft hands' for receivers \u2014 many kids tense up and the object bounces out.",
+    "cues": [
+      "Point your belly button at the target",
+      "Follow through toward the target",
+      "Soft hands ready to receive"
+    ],
+    "commonErrors": [
+      "Sidearm or overhand release \u2192 re-cue underhand path",
+      "Partners standing too close \u2192 mark minimum distances"
+    ]
+  },
+  {
+    "id": "u2-l03",
+    "unitId": "unit2-manipulative",
+    "sequence": 3,
+    "title": "Rolling & Trapping a Ball",
+    "gradeBands": [
+      "K-2"
+    ],
+    "timeOptions": [
+      15,
+      25,
+      40
+    ],
+    "equipment": "Minimal (playground balls or any rolling objects)",
+    "standards": [
+      {
+        "code": "PE-1.7",
+        "label": "Roll a ball"
+      },
+      {
+        "code": "Std1",
+        "label": "Receiving skills"
+      }
+    ],
+    "iCan": "I can roll a ball with control and stop (trap) a rolling ball.",
+    "setup": "Partners sitting or kneeling facing each other, or individual rolling to a wall.",
+    "warmUp": "Seated ball rolls around the body.",
+    "mainActivity": "Partner rolling and trapping. Cue two-handed trap and body behind the ball. Progress to standing rolls.",
+    "challenge": "Roll through a target gate (two cones) or increase distance.",
+    "coolDown": "Gentle seated stretches + reflection on control vs power.",
+    "modifications": {
+      "easier": "Shorter distance, larger balls.",
+      "harder": "One-handed rolls or rolling while moving.",
+      "limitedMobility": "All students can participate from seated or supported positions.",
+      "largeClass": "Use lines on the floor as rolling lanes."
+    },
+    "exitTicket": "Successful roll and trap sequence with a partner.",
+    "teacherTip": "Sitting or kneeling first removes the balance demand so students can focus purely on hand-eye and force control.",
+    "cues": [
+      "Hands behind the ball",
+      "Push through the ball, don't slap it",
+      "Get your body behind the trap"
+    ],
+    "commonErrors": [
+      "Slapping the ball \u2192 model a smooth push",
+      "Ball going sideways \u2192 cue 'fingers point where you want it to go'"
+    ]
+  },
+  {
+    "id": "u2-l04",
+    "unitId": "unit2-manipulative",
+    "sequence": 4,
+    "title": "Kicking for Control & Distance",
+    "gradeBands": [
+      "K-2",
+      "3-4"
+    ],
+    "timeOptions": [
+      15,
+      25,
+      40
+    ],
+    "equipment": "Minimal (playground balls preferred)",
+    "standards": [
+      {
+        "code": "PE-1.MS",
+        "label": "Kicking"
+      },
+      {
+        "code": "Std2",
+        "label": "Force & accuracy"
+      }
+    ],
+    "iCan": "I can kick a ball with control toward a target or partner.",
+    "setup": "Open space or kicking lanes. Balls placed in front of students.",
+    "warmUp": "Toe touches and gentle leg swings.",
+    "mainActivity": "Stationary ball kicks focusing on plant foot placement and contact with the laces/inside of foot. Progress to short partner kicks and traps.",
+    "challenge": "Kick for distance or accuracy through gates.",
+    "coolDown": "Walking collection of balls + calf stretch.",
+    "modifications": {
+      "easier": "Larger, lighter balls; shorter distance.",
+      "harder": "Moving ball or non-dominant foot.",
+      "limitedMobility": "Seated kicking with lighter objects or focus on upper-body striking alternatives.",
+      "largeClass": "Create multiple short lanes; students retrieve their own ball."
+    },
+    "exitTicket": "Student demonstrates plant foot beside the ball and controlled contact.",
+    "teacherTip": "Plant foot position is the #1 error. Spend extra time on 'step next to the ball, not behind it'.",
+    "cues": [
+      "Plant foot beside the ball",
+      "Eyes on the ball at contact",
+      "Follow through toward the target"
+    ],
+    "commonErrors": [
+      "Plant foot too far behind \u2192 ball goes up or weak",
+      "Toe-poking \u2192 cue 'use the inside or laces'"
+    ]
+  },
+  {
+    "id": "u2-l05",
+    "unitId": "unit2-manipulative",
+    "sequence": 5,
+    "title": "Dribbling with Hands (Basketball style)",
+    "gradeBands": [
+      "3-4",
+      "5-6"
+    ],
+    "timeOptions": [
+      15,
+      25,
+      40
+    ],
+    "equipment": "Minimal (playground balls or basketballs)",
+    "standards": [
+      {
+        "code": "PE-3.MS",
+        "label": "Hand dribble"
+      },
+      {
+        "code": "Std2",
+        "label": "Control while moving"
+      }
+    ],
+    "iCan": "I can dribble a ball with my hands while staying in control and looking up.",
+    "setup": "Personal space or defined dribbling zones.",
+    "warmUp": "Seated or standing ball taps with fingertips.",
+    "mainActivity": "Stationary dribble \u2192 walking dribble \u2192 jogging dribble. Strong emphasis on fingertip control and eyes up.",
+    "challenge": "Dribble through simple cones or change direction on signal while maintaining dribble.",
+    "coolDown": "Ball handling tricks (around the waist, legs) at slow speed.",
+    "modifications": {
+      "easier": "Larger balls, stationary only, or allow two hands.",
+      "harder": "Non-dominant hand, speed changes, or defensive pressure (light).",
+      "limitedMobility": "Seated dribbling or table-top bouncing variations.",
+      "largeClass": "Assign zones so students are not crossing paths constantly."
+    },
+    "exitTicket": "Student dribbles 10 consecutive times with eyes up at least part of the time.",
+    "teacherTip": "Cue 'finger pads, not palms' early and often. Palms cause loss of control.",
+    "cues": [
+      "Finger pads push the ball",
+      "Waist height or lower",
+      "Eyes up \u2014 see the court"
+    ],
+    "commonErrors": [
+      "Slapping with palm \u2192 stop and re-teach finger pad push",
+      "Watching the ball exclusively \u2192 practice 'look at me while dribbling'"
+    ]
+  },
+  {
+    "id": "u2-l06",
+    "unitId": "unit2-manipulative",
+    "sequence": 6,
+    "title": "Dribbling with Feet (Soccer style)",
+    "gradeBands": [
+      "3-4",
+      "5-6"
+    ],
+    "timeOptions": [
+      15,
+      25,
+      40
+    ],
+    "equipment": "Minimal (playground balls)",
+    "standards": [
+      {
+        "code": "PE-3.MS",
+        "label": "Foot dribble"
+      },
+      {
+        "code": "Std1",
+        "label": "Control in space"
+      }
+    ],
+    "iCan": "I can dribble a ball with my feet using small touches while keeping my head up.",
+    "setup": "Open space with clear boundaries. One ball per student if possible.",
+    "warmUp": "Toe taps on top of the ball and gentle pulls back and forth.",
+    "mainActivity": "Stationary foot taps \u2192 walking dribble with inside of both feet \u2192 controlled direction changes.",
+    "challenge": "Dribble through a short course or keep the ball close while changing speed.",
+    "coolDown": "Ball between feet, gentle side-to-side rolls + reflection.",
+    "modifications": {
+      "easier": "Larger balls, slower pace, or allow more space between students.",
+      "harder": "Weaving through cones or weak-foot only.",
+      "limitedMobility": "Seated or assisted versions; focus on accuracy of contact.",
+      "largeClass": "Use lanes or half the class active at a time."
+    },
+    "exitTicket": "Student keeps the ball within 2\u20133 feet while moving 10+ steps.",
+    "teacherTip": "Small touches are everything. Students want to kick hard \u2014 constantly cue 'soft touches, ball stays close'.",
+    "cues": [
+      "Soft touches with the inside of the foot",
+      "Ball stays close to your feet",
+      "Head up when possible"
+    ],
+    "commonErrors": [
+      "Kicking the ball too far ahead \u2192 stop and practice tiny touches",
+      "Using only one foot \u2192 require alternating feet"
+    ]
+  },
+  {
+    "id": "u2-l07",
+    "unitId": "unit2-manipulative",
+    "sequence": 7,
+    "title": "Striking with Hands (Volley / Overhead)",
+    "gradeBands": [
+      "3-4",
+      "5-6"
+    ],
+    "timeOptions": [
+      15,
+      25,
+      40
+    ],
+    "equipment": "Minimal (beach balls, balloons, or light playground balls)",
+    "standards": [
+      {
+        "code": "PE-1.12",
+        "label": "Strike with hands"
+      },
+      {
+        "code": "Std2",
+        "label": "Force control"
+      }
+    ],
+    "iCan": "I can strike a ball upward with my hands and keep it in the air or send it to a partner.",
+    "setup": "Personal space or partner pairs. Light objects preferred for success.",
+    "warmUp": "Balloon or scarf tapping with different body parts.",
+    "mainActivity": "Self-volleys (keep-ups) with finger pads or open hands. Progress to partner underhand volleys.",
+    "challenge": "Consecutive keep-ups or partner rallies of 5+ exchanges.",
+    "coolDown": "Gentle shoulder stretches + share a control tip.",
+    "modifications": {
+      "easier": "Balloons or very light balls; allow catch between strikes.",
+      "harder": "Smaller balls or non-dominant hand.",
+      "limitedMobility": "Seated striking; lower targets; partner assists with tosses.",
+      "largeClass": "Use whatever light objects exist; focus on form over equipment equality."
+    },
+    "exitTicket": "Student keeps an object in the air for 3+ consecutive strikes or completes a short partner rally.",
+    "teacherTip": "Balloons are magic for this skill \u2014 almost every student experiences success quickly.",
+    "cues": [
+      "Contact with finger pads or flat hands",
+      "Bend knees and get under the ball",
+      "Push upward, don't swing wildly"
+    ],
+    "commonErrors": [
+      "Swinging with closed fists \u2192 open the hands",
+      "Contacting the ball too late \u2192 cue 'get under it early'"
+    ]
+  },
+  {
+    "id": "u2-l08",
+    "unitId": "unit2-manipulative",
+    "sequence": 8,
+    "title": "Striking with Implements (Short-handled)",
+    "gradeBands": [
+      "3-4",
+      "5-6"
+    ],
+    "timeOptions": [
+      15,
+      25,
+      40
+    ],
+    "equipment": "Minimal to Full (paddles, rackets, or open hands if none available)",
+    "standards": [
+      {
+        "code": "PE-4.MS",
+        "label": "Strike with implement"
+      },
+      {
+        "code": "Std2",
+        "label": "Eye-hand coordination"
+      }
+    ],
+    "iCan": "I can strike a ball or object with a short-handled implement using proper grip and orientation.",
+    "setup": "Stations or open space. Safety spacing critical.",
+    "warmUp": "Shadow swings without a ball, focusing on side orientation and grip.",
+    "mainActivity": "Strike a suspended ball, ball off a tee/cone, or tossed ball. Emphasize side to target and level swing path.",
+    "challenge": "Hit for distance or accuracy to a target zone.",
+    "coolDown": "Equipment collection + forearm stretch.",
+    "modifications": {
+      "easier": "Larger striking surfaces, stationary ball, or hand striking only.",
+      "harder": "Smaller objects or moving tosses.",
+      "limitedMobility": "Seated striking; shorter implements; partner tosses.",
+      "largeClass": "Rotate small groups through striking stations; others work on previous skills."
+    },
+    "exitTicket": "Student demonstrates side orientation and makes solid contact.",
+    "teacherTip": "If you have no paddles, students can use open hands or even a rolled newspaper \u2014 the body position cues are the same.",
+    "cues": [
+      "Stand sideways to the target",
+      "Watch the ball all the way to contact",
+      "Swing level, not uppercut"
+    ],
+    "commonErrors": [
+      "Facing the target square instead of side-on \u2192 re-position feet",
+      "Swinging too hard and losing balance \u2192 cue 'smooth and controlled'"
+    ]
+  },
+  {
+    "id": "u2-l09",
+    "unitId": "unit2-manipulative",
+    "sequence": 9,
+    "title": "Combining Manipulative Skills \u2013 Stations",
+    "gradeBands": [
+      "3-4",
+      "5-6"
+    ],
+    "timeOptions": [
+      25,
+      40
+    ],
+    "equipment": "Minimal (variety of balls and soft objects)",
+    "standards": [
+      {
+        "code": "Std1",
+        "label": "Multiple manipulative skills"
+      },
+      {
+        "code": "Std5",
+        "label": "Cooperation & independence"
+      }
+    ],
+    "iCan": "I can apply different manipulative skills in a station format and work independently or with a partner.",
+    "setup": "4\u20136 stations around the space, each focused on a previously taught skill.",
+    "warmUp": "Quick review of key cues for the skills in rotation.",
+    "mainActivity": "Students rotate through stations (throwing, kicking, dribbling, striking, etc.). Short time at each (3\u20135 min).",
+    "challenge": "At one station, set a personal record (consecutive catches, dribbles, etc.).",
+    "coolDown": "Group share of favorite station and one skill that improved.",
+    "modifications": {
+      "easier": "Fewer stations, longer time, more teacher guidance.",
+      "harder": "Add performance challenges or peer coaching roles.",
+      "limitedMobility": "Every station has an accessible version; students choose appropriate challenge.",
+      "largeClass": "Duplicate popular stations or run two parallel circuits."
+    },
+    "exitTicket": "Student participates fully at 3+ stations and can name one cue they used.",
+    "teacherTip": "Post simple visual cues at each station so students can self-correct without waiting for you.",
+    "cues": [
+      "Read the station card",
+      "Use the cues you already know",
+      "Encourage your partner"
+    ],
+    "commonErrors": [
+      "Students lingering at favorite stations \u2192 use a clear rotation signal",
+      "Off-task behavior \u2192 shorter intervals and active supervision"
+    ]
+  },
+  {
+    "id": "u2-l10",
+    "unitId": "unit2-manipulative",
+    "sequence": 10,
+    "title": "Unit Culmination \u2013 Manipulative Skills Showcase",
+    "gradeBands": [
+      "K-2",
+      "3-4",
+      "5-6"
+    ],
+    "timeOptions": [
+      25,
+      40
+    ],
+    "equipment": "Minimal",
+    "standards": [
+      {
+        "code": "Std1",
+        "label": "Skill application"
+      },
+      {
+        "code": "Std3",
+        "label": "Self-assessment"
+      },
+      {
+        "code": "Std5",
+        "label": "Reflection"
+      }
+    ],
+    "iCan": "I can demonstrate the manipulative skills I have learned and reflect on my progress.",
+    "setup": "Open space or stations for choice.",
+    "warmUp": "Free practice of any manipulative skill from the unit.",
+    "mainActivity": "Choice circuit or partner challenges reviewing key skills. Students self-assess using simple criteria.",
+    "challenge": "Create a short skill combination (example: dribble \u2192 stop \u2192 underhand throw to partner).",
+    "coolDown": "Reflection and goal conversation: Which skill improved the most? What do you want to keep practicing?",
+    "modifications": {
+      "easier": "More guided choices and partner support.",
+      "harder": "Students design and teach a mini-station to peers.",
+      "limitedMobility": "Full inclusion in design, demonstration (adapted), and reflection.",
+      "largeClass": "Perform in waves; use peer observers."
+    },
+    "exitTicket": "Student completes a self-assessment and identifies one strength and one growth area.",
+    "teacherTip": "Capture student reflections \u2014 they become excellent material for the next class goal with the AI assistant.",
+    "cues": [
+      "Show clean form, not just power",
+      "Be honest on your self-check",
+      "Celebrate improvement"
+    ],
+    "commonErrors": [
+      "Focusing only on the 'fun' skills \u2192 gently require at least one less-preferred skill",
+      "Vague goal statements \u2192 provide stems ('I want to get better at ___ by ___')"
+    ]
+  },
+  {
+    "id": "u3-l01",
+    "unitId": "unit3-fitness",
+    "sequence": 1,
+    "title": "Heart Rate Awareness \u2013 Finding Your Pulse",
+    "gradeBands": [
+      "3-4",
+      "5-6"
+    ],
+    "timeOptions": [
+      15,
+      25,
+      40
+    ],
+    "equipment": "None",
+    "standards": [
+      {
+        "code": "Std3",
+        "label": "Assess fitness"
+      },
+      {
+        "code": "Std4",
+        "label": "Fitness knowledge"
+      }
+    ],
+    "iCan": "I can find my pulse and notice how activity changes my heart rate.",
+    "setup": "Open space. Students can sit or stand.",
+    "warmUp": "Easy marching in place while breathing normally.",
+    "mainActivity": "Teach two pulse points (wrist and neck). Practice finding pulse at rest (count for 15 sec \u00d7 4). Then do 1 minute of jumping jacks or high knees and recount. Compare numbers.",
+    "challenge": "Students predict which activity will raise heart rate more, then test two different activities.",
+    "coolDown": "Slow breathing + discuss why heart rate goes up during activity.",
+    "modifications": {
+      "easier": "Teacher counts with students; use only wrist pulse.",
+      "harder": "Graph rest vs active heart rate; try recovery time after activity.",
+      "limitedMobility": "Seated marches, arm circles, or any safe elevated activity.",
+      "largeClass": "Demonstrate on a volunteer first; students work in pairs to help each other find pulse."
+    },
+    "exitTicket": "Student can point to a pulse location and say whether their heart was faster or slower after activity.",
+    "teacherTip": "Many kids press too hard on the neck \u2014 cue 'gentle touch, like feeling a butterfly'.",
+    "cues": [
+      "Gentle fingers",
+      "Count quietly",
+      "Notice the difference"
+    ],
+    "commonErrors": [
+      "Pressing too hard \u2192 pulse disappears",
+      "Counting for random times \u2192 always use same 15-second window"
+    ]
+  },
+  {
+    "id": "u3-l02",
+    "unitId": "unit3-fitness",
+    "sequence": 2,
+    "title": "Muscular Strength \u2013 Bodyweight Basics",
+    "gradeBands": [
+      "K-2",
+      "3-4",
+      "5-6"
+    ],
+    "timeOptions": [
+      15,
+      25,
+      40
+    ],
+    "equipment": "None",
+    "standards": [
+      {
+        "code": "Std3",
+        "label": "Muscular strength"
+      },
+      {
+        "code": "Std4",
+        "label": "Fitness concepts"
+      }
+    ],
+    "iCan": "I can perform basic strength movements with good form.",
+    "setup": "Personal space for each student.",
+    "warmUp": "Arm circles, gentle squats, march in place.",
+    "mainActivity": "Teach and practice: wall or knee push-ups, bodyweight squats, glute bridges, and plank (or modified plank). Short sets with rest. Focus on form over quantity.",
+    "challenge": "Create a 4-move strength circuit and complete 2 rounds.",
+    "coolDown": "Gentle stretches for chest, legs, and shoulders.",
+    "modifications": {
+      "easier": "Wall push-ups, sit-to-stand from chair, shorter holds.",
+      "harder": "Full push-ups, single-leg bridges, longer planks.",
+      "limitedMobility": "Seated strength options (arm presses, seated marches, band-free rows with towel).",
+      "largeClass": "All students move together on teacher count; no equipment needed."
+    },
+    "exitTicket": "Student demonstrates one strength movement with recognizable form.",
+    "teacherTip": "Quality over quantity \u2014 stop sets before form breaks down.",
+    "cues": [
+      "Strong core",
+      "Controlled movement",
+      "Breathe out on the effort"
+    ],
+    "commonErrors": [
+      "Sagging hips in plank \u2192 cue 'squeeze your belly'",
+      "Rushing reps \u2192 slow the tempo"
+    ]
+  },
+  {
+    "id": "u3-l03",
+    "unitId": "unit3-fitness",
+    "sequence": 3,
+    "title": "Flexibility & Cool-Down Habits",
+    "gradeBands": [
+      "K-2",
+      "3-4",
+      "5-6"
+    ],
+    "timeOptions": [
+      15,
+      25
+    ],
+    "equipment": "None",
+    "standards": [
+      {
+        "code": "Std3",
+        "label": "Flexibility"
+      },
+      {
+        "code": "Std4",
+        "label": "Fitness knowledge"
+      }
+    ],
+    "iCan": "I can hold stretches safely and understand why we cool down.",
+    "setup": "Students seated or standing in personal space.",
+    "warmUp": "Easy locomotor movement for 2 minutes.",
+    "mainActivity": "Teach 5\u20136 major stretches (hamstrings, quads, calves, shoulders, chest, gentle twist). Hold 15\u201320 seconds each. Emphasize no bouncing.",
+    "challenge": "Students lead one stretch for the class.",
+    "coolDown": "Discussion: When should we stretch? How does it feel?",
+    "modifications": {
+      "easier": "Shorter holds; seated versions only.",
+      "harder": "Add dynamic mobility movements before static stretches.",
+      "limitedMobility": "All stretches have seated or supported versions.",
+      "largeClass": "Teacher models; students mirror."
+    },
+    "exitTicket": "Student names one muscle they stretched and holds a stretch with control.",
+    "teacherTip": "Never force a stretch \u2014 'mild pull is ok, pain is not'.",
+    "cues": [
+      "No bouncing",
+      "Breathe while you hold",
+      "Stop at a mild stretch"
+    ],
+    "commonErrors": [
+      "Bouncing \u2192 re-cue stillness",
+      "Holding breath \u2192 remind to breathe"
+    ]
+  },
+  {
+    "id": "u3-l04",
+    "unitId": "unit3-fitness",
+    "sequence": 4,
+    "title": "Personal Fitness Challenge Day",
+    "gradeBands": [
+      "3-4",
+      "5-6"
+    ],
+    "timeOptions": [
+      25,
+      40
+    ],
+    "equipment": "None",
+    "standards": [
+      {
+        "code": "Std3",
+        "label": "Personal fitness"
+      },
+      {
+        "code": "Std5",
+        "label": "Effort & goal setting"
+      }
+    ],
+    "iCan": "I can set a small fitness goal and work toward it with effort.",
+    "setup": "Stations or open space for choice activities.",
+    "warmUp": "Student choice of easy movement.",
+    "mainActivity": "Students choose 2\u20133 fitness challenges (e.g., how many controlled squats, how long a plank, how many jump ropes if available, heart-rate recovery). Record a baseline. Practice with effort.",
+    "challenge": "Set a realistic target for next time and write it down.",
+    "coolDown": "Share one goal with a partner; stretch.",
+    "modifications": {
+      "easier": "Fewer challenges; teacher helps set goals.",
+      "harder": "Include recovery heart rate or multi-skill challenges.",
+      "limitedMobility": "Fully inclusive challenge options for every student.",
+      "largeClass": "Use a simple recording sheet or partner recording."
+    },
+    "exitTicket": "Student has a written or verbal personal fitness goal.",
+    "teacherTip": "Celebrate effort and improvement, not only the highest numbers.",
+    "cues": [
+      "Honest effort",
+      "Compare to yourself, not others",
+      "Small goals add up"
+    ],
+    "commonErrors": [
+      "Goals too big \u2192 help scale them down",
+      "Comparing only to peers \u2192 refocus on personal progress"
+    ]
+  },
+  {
+    "id": "u4-l01",
+    "unitId": "unit4-cooperative",
+    "sequence": 1,
+    "title": "Cooperative Challenges \u2013 No Elimination",
+    "gradeBands": [
+      "K-2",
+      "3-4",
+      "5-6"
+    ],
+    "timeOptions": [
+      15,
+      25,
+      40
+    ],
+    "equipment": "None",
+    "standards": [
+      {
+        "code": "Std5",
+        "label": "Cooperation"
+      },
+      {
+        "code": "Std1",
+        "label": "Movement skills"
+      }
+    ],
+    "iCan": "I can work with others to solve a movement challenge without anyone being out.",
+    "setup": "Open space. Clear boundaries.",
+    "warmUp": "Partner mirror movements.",
+    "mainActivity": "Play cooperative games only: group balance challenges, 'everyone across the river' style problems, collective freeze games where the group succeeds together.",
+    "challenge": "Groups invent one new cooperative rule and try it.",
+    "coolDown": "Discuss what helped the group succeed.",
+    "modifications": {
+      "easier": "Smaller groups; simpler challenges.",
+      "harder": "Add time limits or silent communication only.",
+      "limitedMobility": "Every challenge has roles that include all abilities.",
+      "largeClass": "Multiple small groups working in parallel."
+    },
+    "exitTicket": "Student can name one way they helped the group.",
+    "teacherTip": "Ban elimination language early \u2014 'we're solving this together' becomes the norm.",
+    "cues": [
+      "Help your teammates",
+      "Everyone stays in",
+      "Try another way"
+    ],
+    "commonErrors": [
+      "Students creating their own elimination rules \u2192 reset expectations",
+      "One leader dominating \u2192 rotate leadership"
+    ]
+  },
+  {
+    "id": "u4-l02",
+    "unitId": "unit4-cooperative",
+    "sequence": 2,
+    "title": "Strategy Games \u2013 Offense & Defense Concepts",
+    "gradeBands": [
+      "3-4",
+      "5-6"
+    ],
+    "timeOptions": [
+      25,
+      40
+    ],
+    "equipment": "Minimal",
+    "standards": [
+      {
+        "code": "Std2",
+        "label": "Strategy"
+      },
+      {
+        "code": "Std5",
+        "label": "Teamwork"
+      }
+    ],
+    "iCan": "I can use simple offensive and defensive ideas in a small-sided game.",
+    "setup": "Small-sided playing areas. Soft balls or beanbags if available.",
+    "warmUp": "Tag variations that practice chasing and fleeing.",
+    "mainActivity": "Introduce concepts: create space, protect space, pass to open player, defend the path to the goal. Play modified small-sided games with frequent pauses for strategy talk.",
+    "challenge": "Teams set one strategy focus for a short game segment.",
+    "coolDown": "Team debrief: What strategy worked?",
+    "modifications": {
+      "easier": "Fewer players per side; walking pace only.",
+      "harder": "Add conditions (must pass 2 times before scoring).",
+      "limitedMobility": "Include zone or support roles that matter to the team.",
+      "largeClass": "Multiple small games instead of one large game."
+    },
+    "exitTicket": "Student can explain one offensive or defensive idea they used.",
+    "teacherTip": "Freeze the game often for 20-second strategy huddles \u2014 learning sticks better than continuous play.",
+    "cues": [
+      "Find open space",
+      "Move to help your teammate",
+      "Protect the path"
+    ],
+    "commonErrors": [
+      "Everyone crowds the ball \u2192 cue spacing",
+      "No passing \u2192 require a pass before a score attempt"
+    ]
+  },
+  {
+    "id": "u4-l03",
+    "unitId": "unit4-cooperative",
+    "sequence": 3,
+    "title": "Trust & Communication Movement Tasks",
+    "gradeBands": [
+      "3-4",
+      "5-6"
+    ],
+    "timeOptions": [
+      15,
+      25,
+      40
+    ],
+    "equipment": "None",
+    "standards": [
+      {
+        "code": "Std5",
+        "label": "Communication & trust"
+      }
+    ],
+    "iCan": "I can give clear directions and listen carefully so my partner or group succeeds.",
+    "setup": "Pairs or small groups. Clear safe space.",
+    "warmUp": "Partner lead-and-follow (leader moves, partner mirrors).",
+    "mainActivity": "Blindfolded (or eyes-closed) partner walks with verbal guidance only; group shape challenges where only one person can see a target shape; silent communication tasks.",
+    "challenge": "Groups complete a course using only agreed hand signals.",
+    "coolDown": "Reflect on what made communication clear or confusing.",
+    "modifications": {
+      "easier": "Eyes open; simpler pathways.",
+      "harder": "Full silence except one designated speaker.",
+      "limitedMobility": "Roles adapted so every student can lead and support.",
+      "largeClass": "Pairs first, then small groups."
+    },
+    "exitTicket": "Student can describe one clear communication habit that helped.",
+    "teacherTip": "Safety first with eyes-closed activities \u2014 small spaces, slow speed, and clear stop signals.",
+    "cues": [
+      "Clear short directions",
+      "Confirm you heard",
+      "Safety stop word"
+    ],
+    "commonErrors": [
+      "Too many people talking \u2192 assign one speaker",
+      "Moving too fast \u2192 mandatory slow pace"
+    ]
+  },
+  {
+    "id": "u5-l01",
+    "unitId": "unit5-rhythm",
+    "sequence": 1,
+    "title": "Beat Awareness & Movement to Music",
+    "gradeBands": [
+      "K-2",
+      "3-4"
+    ],
+    "timeOptions": [
+      15,
+      25,
+      40
+    ],
+    "equipment": "None (music optional)",
+    "standards": [
+      {
+        "code": "Std1",
+        "label": "Rhythmic movement"
+      },
+      {
+        "code": "Std2",
+        "label": "Beat & timing"
+      }
+    ],
+    "iCan": "I can move in time with a steady beat.",
+    "setup": "Open space. Music with clear beat if available; otherwise teacher claps/counts.",
+    "warmUp": "Clap and march to a steady beat.",
+    "mainActivity": "Move locomotor skills on the beat. Freeze on rest. Explore different body parts keeping the beat. Simple mirror dances.",
+    "challenge": "Create a 4-beat movement pattern and repeat it.",
+    "coolDown": "Slow swaying movements + soft breathing.",
+    "modifications": {
+      "easier": "Slower tempo; seated beat movements.",
+      "harder": "Faster tempo; combine locomotor + non-locomotor on beat.",
+      "limitedMobility": "Upper-body and seated rhythmic patterns fully included.",
+      "largeClass": "Everyone faces the same direction; teacher leads."
+    },
+    "exitTicket": "Student moves or claps on beat for a short phrase.",
+    "teacherTip": "If you have no music, a simple drum, desk, or even two sticks works perfectly.",
+    "cues": [
+      "Feel the pulse",
+      "Move on the beat",
+      "Freeze on rest"
+    ],
+    "commonErrors": [
+      "Moving between beats \u2192 slow down and exaggerate",
+      "Only arms moving \u2192 add feet or whole body"
+    ]
+  },
+  {
+    "id": "u5-l02",
+    "unitId": "unit5-rhythm",
+    "sequence": 2,
+    "title": "Simple Dance Sequences",
+    "gradeBands": [
+      "K-2",
+      "3-4",
+      "5-6"
+    ],
+    "timeOptions": [
+      15,
+      25,
+      40
+    ],
+    "equipment": "None (music optional)",
+    "standards": [
+      {
+        "code": "Std1",
+        "label": "Dance patterns"
+      },
+      {
+        "code": "Std5",
+        "label": "Self-expression"
+      }
+    ],
+    "iCan": "I can learn and perform a short dance sequence.",
+    "setup": "Students in rows or circle so everyone can see.",
+    "warmUp": "Isolations (head, shoulders, hips) to easy music or counts.",
+    "mainActivity": "Teach a short 4- or 8-count sequence step by step. Practice in parts, then whole. Add expression and levels.",
+    "challenge": "Pairs or groups add one original 4-count and perform the full sequence.",
+    "coolDown": "Free dance at low intensity + share favorite move.",
+    "modifications": {
+      "easier": "Fewer counts; repeat the same step.",
+      "harder": "Faster music; directional changes; partner work.",
+      "limitedMobility": "Seated or adapted choreography that keeps the same timing and expression.",
+      "largeClass": "Teach facing the same way; use clear visual cues."
+    },
+    "exitTicket": "Student performs most of the sequence with the group.",
+    "teacherTip": "Teach one 4-count at a time and only add the next when most students have the first.",
+    "cues": [
+      "Watch once, then try",
+      "Same side as me",
+      "Big energy on the accents"
+    ],
+    "commonErrors": [
+      "Rushing ahead of the count \u2192 return to slow practice",
+      "Looking only at feet \u2192 cue eyes up"
+    ]
+  },
+  {
+    "id": "u5-l03",
+    "unitId": "unit5-rhythm",
+    "sequence": 3,
+    "title": "Creative Movement & Expression",
+    "gradeBands": [
+      "K-2",
+      "3-4",
+      "5-6"
+    ],
+    "timeOptions": [
+      15,
+      25,
+      40
+    ],
+    "equipment": "None",
+    "standards": [
+      {
+        "code": "Std1",
+        "label": "Creative movement"
+      },
+      {
+        "code": "Std5",
+        "label": "Expression"
+      }
+    ],
+    "iCan": "I can create movements that show an idea, feeling, or story.",
+    "setup": "Open space with room to move freely.",
+    "warmUp": "Move like different animals or weather on teacher prompts.",
+    "mainActivity": "Prompts: move like you are happy / strong / sneaky / heavy / light. Then small groups create a short movement story with a beginning, middle, and end.",
+    "challenge": "Groups perform their story; audience guesses the idea.",
+    "coolDown": "Slow reflective movement + one word about how it felt.",
+    "modifications": {
+      "easier": "Individual prompts only; no performance.",
+      "harder": "Longer stories; require specific levels and pathways.",
+      "limitedMobility": "Expression is the focus \u2014 any body part can carry the idea.",
+      "largeClass": "Perform in waves of small groups."
+    },
+    "exitTicket": "Student contributes at least one clear expressive movement.",
+    "teacherTip": "There is no wrong creative movement \u2014 praise commitment and clarity of idea.",
+    "cues": [
+      "Show it with your whole body",
+      "Clear beginning and end",
+      "Commit to the idea"
+    ],
+    "commonErrors": [
+      "Self-consciousness \u2192 start with eyes-closed exploration",
+      "Copying only \u2192 require one original idea per student"
+    ]
+  },
+  {
+    "id": "u6-l01",
+    "unitId": "unit6-balance",
+    "sequence": 1,
+    "title": "Static Balance & Bases of Support",
+    "gradeBands": [
+      "K-2",
+      "3-4"
+    ],
+    "timeOptions": [
+      15,
+      25,
+      40
+    ],
+    "equipment": "None",
+    "standards": [
+      {
+        "code": "Std1",
+        "label": "Balance"
+      },
+      {
+        "code": "Std2",
+        "label": "Base of support"
+      }
+    ],
+    "iCan": "I can balance in different shapes using wide and narrow bases of support.",
+    "setup": "Personal space. Optional lines or spots on floor.",
+    "warmUp": "Freeze in balanced shapes on signal.",
+    "mainActivity": "Explore balances on 1\u20134 body parts. Compare wide vs narrow bases. Hold balances for increasing time. Partner matching balances.",
+    "challenge": "Create a sequence of three balances with smooth transitions.",
+    "coolDown": "Gentle yoga-style holds + breathing.",
+    "modifications": {
+      "easier": "Two-foot balances only; hold near a wall.",
+      "harder": "Eyes closed; unstable surfaces if safe mats available.",
+      "limitedMobility": "Seated or supported balances focusing on control and shape.",
+      "largeClass": "All students balance at once; teacher scans for safety."
+    },
+    "exitTicket": "Student holds a controlled balance on a reduced base for 5+ seconds.",
+    "teacherTip": "Cue 'eyes on a fixed point' \u2014 it dramatically improves balance.",
+    "cues": [
+      "Wide base is more stable",
+      "Eyes quiet on one spot",
+      "Tighten your core"
+    ],
+    "commonErrors": [
+      "Looking around \u2192 fix gaze",
+      "Holding breath \u2192 remind to breathe"
+    ]
+  },
+  {
+    "id": "u6-l02",
+    "unitId": "unit6-balance",
+    "sequence": 2,
+    "title": "Landing Safely & Rolling",
+    "gradeBands": [
+      "K-2",
+      "3-4"
+    ],
+    "timeOptions": [
+      15,
+      25,
+      40
+    ],
+    "equipment": "None (mats ideal if available)",
+    "standards": [
+      {
+        "code": "Std1",
+        "label": "Landing & rolling"
+      },
+      {
+        "code": "Std3",
+        "label": "Body control"
+      }
+    ],
+    "iCan": "I can land softly and perform a basic roll with control.",
+    "setup": "Clear space. Mats if you have them; otherwise carpet or grass.",
+    "warmUp": "Jump and land quietly in place.",
+    "mainActivity": "Review soft landings (ankles-knees-hips). Progress to log rolls and, if ready, basic forward roll progressions with strong safety emphasis. Never force rolling.",
+    "challenge": "Jump \u2192 soft land \u2192 controlled roll sequence.",
+    "coolDown": "Stretch and discuss when soft landings matter in real life.",
+    "modifications": {
+      "easier": "Landings only; rocking on back instead of full rolls.",
+      "harder": "Varied jump directions into landings; smoother roll connections.",
+      "limitedMobility": "Focus on controlled lowering and upper-body rolling patterns as appropriate.",
+      "largeClass": "Small groups rotate; strong spotting culture if rolling."
+    },
+    "exitTicket": "Student demonstrates a soft landing with visible bend in ankles, knees, and hips.",
+    "teacherTip": "If you are not confident teaching forward rolls, stay with landings and log rolls \u2014 still excellent content.",
+    "cues": [
+      "Quiet feet",
+      "Round your back for rolls",
+      "Chin tucked"
+    ],
+    "commonErrors": [
+      "Stiff landings \u2192 exaggerate the bend",
+      "Rolling with straight legs/back \u2192 stop and regress"
+    ]
+  },
+  {
+    "id": "u6-l03",
+    "unitId": "unit6-balance",
+    "sequence": 3,
+    "title": "Weight Transfer & Simple Inversions Intro",
+    "gradeBands": [
+      "3-4",
+      "5-6"
+    ],
+    "timeOptions": [
+      15,
+      25,
+      40
+    ],
+    "equipment": "None (mats preferred)",
+    "standards": [
+      {
+        "code": "Std1",
+        "label": "Weight transfer"
+      },
+      {
+        "code": "Std2",
+        "label": "Body management"
+      }
+    ],
+    "iCan": "I can transfer weight from feet to hands safely and with control.",
+    "setup": "Personal space; mats if available.",
+    "warmUp": "Animal walks (bear, crab, frog) to load arms gently.",
+    "mainActivity": "Practice weight on hands: donkey kicks (small), feet higher than hands on a low surface if available, or simply strong plank to downward-dog style transfers. Emphasize shoulder strength and control over height.",
+    "challenge": "Smooth sequence: plank \u2192 weight shift \u2192 return to feet.",
+    "coolDown": "Wrist and shoulder stretches; discuss safety.",
+    "modifications": {
+      "easier": "Remain in plank and short weight shifts only.",
+      "harder": "Controlled kick-ups with spotter culture; cartwheel progressions if previously taught.",
+      "limitedMobility": "Upper-body loading alternatives that are appropriate for the student.",
+      "largeClass": "Strict spacing; no freestyle inverted attempts."
+    },
+    "exitTicket": "Student shows controlled weight on hands and safe return to feet.",
+    "teacherTip": "Prioritize shoulder stability and landing safety over any inverted skill.",
+    "cues": [
+      "Strong shoulders",
+      "Eyes look at hands",
+      "Soft return to feet"
+    ],
+    "commonErrors": [
+      "Dumping weight onto head \u2192 immediate stop",
+      "Bending arms \u2192 cue locked soft elbows"
+    ]
+  },
+  {
+    "id": "u7-l01",
+    "unitId": "unit7-lifetime",
+    "sequence": 1,
+    "title": "Outdoor Awareness & Hiking Skills (Schoolyard)",
+    "gradeBands": [
+      "3-4",
+      "5-6"
+    ],
+    "timeOptions": [
+      25,
+      40
+    ],
+    "equipment": "None",
+    "standards": [
+      {
+        "code": "Std1",
+        "label": "Outdoor skills"
+      },
+      {
+        "code": "Std4",
+        "label": "Lifetime activity"
+      }
+    ],
+    "iCan": "I can move safely outdoors and use basic trail/pace awareness.",
+    "setup": "Schoolyard, field, or safe outdoor route.",
+    "warmUp": "Dynamic walking and light jogging.",
+    "mainActivity": "Practice pace control, line-of-sight with a partner, simple orienteering with landmarks, and leave-no-trace ideas. Walk/hike a route with purpose.",
+    "challenge": "Groups navigate a short landmark course and return on time.",
+    "coolDown": "Stretch outdoors; notice heart rate and breathing.",
+    "modifications": {
+      "easier": "Shorter route; more frequent stops.",
+      "harder": "Add pacing goals or map-simple challenges.",
+      "limitedMobility": "Fully accessible routes and roles (navigator, timer, observer).",
+      "largeClass": "Multiple loops or staggered start times."
+    },
+    "exitTicket": "Student can explain one outdoor safety or pacing habit.",
+    "teacherTip": "Even a blacktop loop can teach pacing, awareness, and outdoor habits.",
+    "cues": [
+      "Steady pace",
+      "Stay where you can see your partner",
+      "Leave the space better than you found it"
+    ],
+    "commonErrors": [
+      "Racing ahead \u2192 mandatory partner check-ins",
+      "Ignoring boundaries \u2192 clear visual markers"
+    ]
+  },
+  {
+    "id": "u7-l02",
+    "unitId": "unit7-lifetime",
+    "sequence": 2,
+    "title": "Lifetime Activity Exploration",
+    "gradeBands": [
+      "3-4",
+      "5-6"
+    ],
+    "timeOptions": [
+      25,
+      40
+    ],
+    "equipment": "Minimal",
+    "standards": [
+      {
+        "code": "Std3",
+        "label": "Lifetime fitness"
+      },
+      {
+        "code": "Std5",
+        "label": "Personal preference"
+      }
+    ],
+    "iCan": "I can try different lifetime activities and notice which ones I enjoy.",
+    "setup": "Stations representing different lifetime activities (walking, strength, dance, skill games, mindfulness movement).",
+    "warmUp": "Easy full-body movement.",
+    "mainActivity": "Rotate through 4\u20135 lifetime activity stations. At each, students rate enjoyment and effort honestly.",
+    "challenge": "Choose one activity to revisit and set a tiny personal goal for it.",
+    "coolDown": "Share which activity felt best and why.",
+    "modifications": {
+      "easier": "Fewer stations; longer time at each.",
+      "harder": "Students design one station for peers.",
+      "limitedMobility": "Every station has an accessible version.",
+      "largeClass": "Duplicate popular stations."
+    },
+    "exitTicket": "Student names one lifetime activity they would like to keep doing.",
+    "teacherTip": "This lesson plants seeds for adult activity habits \u2014 treat preferences seriously.",
+    "cues": [
+      "Honest ratings",
+      "Try before you decide",
+      "Effort counts"
+    ],
+    "commonErrors": [
+      "Only choosing friends' stations \u2192 require full rotation first",
+      "Dismissing new activities quickly \u2192 minimum time rule"
+    ]
+  },
+  {
+    "id": "u7-l03",
+    "unitId": "unit7-lifetime",
+    "sequence": 3,
+    "title": "Community & Home Activity Planning",
+    "gradeBands": [
+      "3-4",
+      "5-6"
+    ],
+    "timeOptions": [
+      15,
+      25
+    ],
+    "equipment": "None",
+    "standards": [
+      {
+        "code": "Std4",
+        "label": "Activity planning"
+      },
+      {
+        "code": "Std5",
+        "label": "Responsibility"
+      }
+    ],
+    "iCan": "I can make a simple plan to be active outside of PE class.",
+    "setup": "Classroom or gathering space; paper optional.",
+    "warmUp": "Brainstorm active things kids can do at home or in the neighborhood.",
+    "mainActivity": "Students create a realistic 1-week mini activity plan (3\u20135 short sessions). Include what, when, and with whom if relevant.",
+    "challenge": "Identify one barrier and one solution (weather, space, motivation).",
+    "coolDown": "Optional share-out of plans; encouragement circle.",
+    "modifications": {
+      "easier": "Plan for only 2 days; teacher provides templates.",
+      "harder": "Include variety (strength + aerobic + outdoor).",
+      "limitedMobility": "Plans built around each student's real options.",
+      "largeClass": "Pair-share instead of whole-class sharing."
+    },
+    "exitTicket": "Student has a concrete activity plan for at least two days.",
+    "teacherTip": "Keep plans tiny and doable \u2014 success builds the habit.",
+    "cues": [
+      "Specific beats vague",
+      "Small and realistic",
+      "Plan for obstacles"
+    ],
+    "commonErrors": [
+      "Overly ambitious plans \u2192 help scale down",
+      "No schedule \u2192 add a day/time"
+    ]
+  },
+  {
+    "id": "u8-l01",
+    "unitId": "unit8-review",
+    "sequence": 1,
+    "title": "Skills Showcase Stations",
+    "gradeBands": [
+      "K-2",
+      "3-4",
+      "5-6"
+    ],
+    "timeOptions": [
+      25,
+      40
+    ],
+    "equipment": "Minimal",
+    "standards": [
+      {
+        "code": "Std1",
+        "label": "Skill application"
+      },
+      {
+        "code": "Std3",
+        "label": "Self-assessment"
+      }
+    ],
+    "iCan": "I can demonstrate skills from the year and notice my growth.",
+    "setup": "6\u20138 stations covering locomotor, manipulative, fitness, balance, and cooperative skills.",
+    "warmUp": "Free choice practice at any station.",
+    "mainActivity": "Rotate through stations. At each, students perform and give themselves a simple self-score (1\u20133) on form and effort.",
+    "challenge": "Pick one skill that improved the most this year and show it to a partner.",
+    "coolDown": "Whole-class reflection on growth.",
+    "modifications": {
+      "easier": "Fewer stations; more teacher support.",
+      "harder": "Peer coaching roles at stations.",
+      "limitedMobility": "All stations accessible; growth is the focus.",
+      "largeClass": "Duplicate stations; staggered rotations."
+    },
+    "exitTicket": "Student identifies one skill that improved and one still growing.",
+    "teacherTip": "Take photos or notes if appropriate \u2014 powerful for parent communication and student pride.",
+    "cues": [
+      "Show your best form",
+      "Honest self-check",
+      "Celebrate growth"
+    ],
+    "commonErrors": [
+      "Rushing stations \u2192 longer time per station",
+      "Only comparing to others \u2192 refocus on personal progress"
+    ]
+  },
+  {
+    "id": "u8-l02",
+    "unitId": "unit8-review",
+    "sequence": 2,
+    "title": "Class Goals Celebration & Reflection",
+    "gradeBands": [
+      "K-2",
+      "3-4",
+      "5-6"
+    ],
+    "timeOptions": [
+      15,
+      25,
+      40
+    ],
+    "equipment": "None",
+    "standards": [
+      {
+        "code": "Std5",
+        "label": "Reflection & goal setting"
+      }
+    ],
+    "iCan": "I can reflect on our class goals and set a new personal movement goal.",
+    "setup": "Circle or comfortable gathering space.",
+    "warmUp": "Favorite movement from the year \u2014 student choice.",
+    "mainActivity": "Review class goals set earlier. Celebrate progress (even partial). Students write or share a new personal movement goal for summer or next term.",
+    "challenge": "Offer one specific encouragement to a classmate.",
+    "coolDown": "Group appreciation and a final active game of the class's choice.",
+    "modifications": {
+      "easier": "Verbal goals only; teacher records.",
+      "harder": "Goals include a simple measurement plan.",
+      "limitedMobility": "Full participation in reflection and celebration.",
+      "largeClass": "Pair and small-group sharing."
+    },
+    "exitTicket": "Student has a forward-looking personal movement goal.",
+    "teacherTip": "End the year on identity: 'We are people who move and improve.'",
+    "cues": [
+      "Be proud of effort",
+      "Specific goals help",
+      "Encourage each other"
+    ],
+    "commonErrors": [
+      "Vague goals \u2192 provide stems",
+      "Focusing only on what was missed \u2192 highlight gains first"
+    ]
+  },
+  {
+    "id": "u8-l03",
+    "unitId": "unit8-review",
+    "sequence": 3,
+    "title": "Favorite Games Tournament (Inclusive)",
+    "gradeBands": [
+      "K-2",
+      "3-4",
+      "5-6"
+    ],
+    "timeOptions": [
+      25,
+      40
+    ],
+    "equipment": "Minimal",
+    "standards": [
+      {
+        "code": "Std1",
+        "label": "Skill application"
+      },
+      {
+        "code": "Std5",
+        "label": "Fair play & enjoyment"
+      }
+    ],
+    "iCan": "I can play favorite games with fair play and inclusion.",
+    "setup": "Spaces for 2\u20133 favorite class games rotated during the period.",
+    "warmUp": "Student-led warm-up from a previous unit.",
+    "mainActivity": "Play the class's highest-rated games with clear fair-play expectations and no elimination. Rotate so everyone plays multiple games.",
+    "challenge": "Students help referee or modify a rule to make a game more inclusive.",
+    "coolDown": "Thank-you circle and final stretch.",
+    "modifications": {
+      "easier": "One game only; more scaffolding.",
+      "harder": "Student captains manage rotations and fairness.",
+      "limitedMobility": "Rule adaptations agreed before play starts.",
+      "largeClass": "Multiple concurrent games with clear zones."
+    },
+    "exitTicket": "Student demonstrates fair play and can name one inclusive adjustment used.",
+    "teacherTip": "Let students vote on games in advance so the final day feels owned by the class.",
+    "cues": [
+      "Fair play first",
+      "Everyone plays",
+      "Fun over winning"
+    ],
+    "commonErrors": [
+      "Old elimination habits return \u2192 pause and reset",
+      "Arguments \u2192 use a quick student mediation routine"
+    ]
+  }
+]
